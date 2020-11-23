@@ -1,3 +1,5 @@
+Deprecated: view my new website at https://github.com/stephen-eades/Stepheneades.com
+
 # stepheneades.com
 My simplistic personal domain that directs visitors to everything related to my work and personal projects.
 
